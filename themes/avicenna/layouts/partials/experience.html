@@ -1,0 +1,35 @@
+<div class="introduction">
+	{{ with .Site.Params.experience }}
+	<h4>Experience</h4>
+	<ul>
+		{{- range $index, $experience_map := $.Site.Params.experience -}}
+
+		{{ range $elem_index, $experience := $experience_map.experience }}
+		<li>
+			<a href="{{ $experience.experience_page }}" class="experience"> {{ $experience.name }}</a>
+
+			{{ if or ($experience.code_link) ($experience.blog_link) }}
+			<span class="code_blog">
+				{{ with $experience.code_link }}
+				[<a href="{{ . }}">code</a>]
+				{{ end }}
+
+				{{ with $experience.blog_link }}
+				[<a href="{{ . }}">blog</a>]
+				{{ end }}
+			</span>
+			{{ end }}
+
+			{{ with $experience.description }}
+			<span class="experience_description">
+				{{ . | markdownify}}
+			</span>
+			{{ end }}
+
+		</li>
+		{{ end }}
+
+		{{- end -}}
+	</ul>
+	{{ end }}
+</div>

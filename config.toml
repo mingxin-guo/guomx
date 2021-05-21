@@ -4,6 +4,7 @@ title = "Mx Guo"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout=3000
+copyright = "© Copyright notice"
 
 [params]
   subtitle= "PhD Student"

@@ -1,5 +1,5 @@
 ## hugo + netlify 
-
+```
 ├─content
 ├─public
 │  ├─categories
@@ -19,6 +19,7 @@
         └─static
             ├─css
             └─js
+ ```
 ###  本项目的一些细节
 > 0. 本项目受ezhil和avicenna启发
 > 1. 这个项目非常简约，没有任何冗余，项目简单，熟悉后可自己自由定制
@@ -28,12 +29,14 @@
 ### 步骤
 > 1. 本地安装hugo，配置好环境
 > 2. ```hugo new set mypage``` 建立hugo空项目
+```
 ├─archetypes
 ├─content
 ├─data
 ├─layouts
 ├─static
 └─themes
+```
 > 3. ```git clone ...```下载hugo项目到空项目的themes, 将hugo模板的config.toml文件替换空空项目的config.toml;模板content内容复制到空文件的content中
 > 4. 一般来说 hugo new post/fisrt.md 就是在content文件中建立一个post文件夹，里面放first.md;content是大多数项目的根目录
 > 5. .toml文件用#注释 .yaml

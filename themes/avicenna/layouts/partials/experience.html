@@ -1,6 +1,7 @@
 <div class="introduction">
 	{{ with .Site.Params.experience }}
 	<h4>Experience</h4>
+	<img src={{ "profile.jpg" | absURL }} class="experience_image" >
 	<ul>
 		{{- range $index, $experience_map := $.Site.Params.experience -}}
 

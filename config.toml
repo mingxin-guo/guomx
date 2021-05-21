@@ -77,10 +77,10 @@ copyright = "Copyright notice © 2021"
 
 [[params.projects]]
  [[params.projects.project]]
-		name = "Waiting..."
+		name = "hugo + netlify 实现个人主页"
 		# description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
-		# project_page = "https://myprojecthomepage.com"
-		# code_link = "https://coderepo.com"
+		project_page = "https://guomx1.netlify.app/"
+		code_link = "https://github.com/mingxin-guo/guomx"
 		# blog_link = "https://ablogpost.com"
 
 #  [[params.projects.project]]

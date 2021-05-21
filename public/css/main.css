@@ -209,8 +209,9 @@ ul {
 }
 .header .experience_image{
    display: block;
-   float: left;
-   margin: 0px 0px 0px 500px;
+   float: center;
+   margin: 0px 0px 300px 0px;
+/*向上，向下，向左，向右*/
    width: 100px;
    height: 100px;
    border-radius: 100%;

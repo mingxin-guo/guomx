@@ -198,11 +198,11 @@ ul {
 }
 
 .header .profile_image {
-	display: block;
-	float: right;
+   display: block;
+   float: right;
     margin: 0px 100px 0px 0px;
     width: 150px;
-    height: 150px;
+    height: 200px;
     overflow: hidden;
 	
   /* float: left; */
@@ -329,6 +329,10 @@ ul {
   margin-left: -.5em;
 }
 
+.experience{
+  margin-left: -.5em;
+}
+
 .code_blog {
     font-family: "Ubuntu Mono";
     font-size: 14px;
@@ -342,6 +346,10 @@ ul {
 }
 
 .project_description {
+ margin: .5em .9em 0em;
+}
+
+.experience_description{
  margin: .5em .9em 0em;
 }
 

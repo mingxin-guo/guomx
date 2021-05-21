@@ -14,7 +14,7 @@ timeout=3000
 [[params.affilation]]
   name = "University of Chinese Academy of Sciences"
   position = "PhD Student"
-  #contact = "guomx.mail@gmail.com"
+  contact = "guomx.mail@gmail.com"
 
 [[params.affilation]]
   name = "China University of Geosciences，Beijing"

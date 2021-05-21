@@ -95,10 +95,8 @@ copyright = "Copyright notice © 2021"
 
 [[params.experience]]
 	[[params.experience.experience]]
-		name = "一生一芯"
+		name = "一生一芯 （鹏城实验室, 深圳）"
 		description  = "Soc设计"
-		company = "鹏城实验室"
-		position = "深圳"
 		project_page = "https://myprojecthomepage.com"
 		code_link = "https://coderepo.com"
 		#blog_link = "https://ablogpost.com"

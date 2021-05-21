@@ -1,6 +1,6 @@
 # baseURL = "https://example.edu"
 languageCode = "en-us"
-title = "Mx Guo"
+title = "Mingxin Guo"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout=3000
@@ -41,7 +41,7 @@ copyright = "Copyright notice © 2021"
 
 
 [[params.introduction.paragraph]]
-  text=""" Mx Guo is a currently a first-year Ph.D. student in Pattern Recognition and Intelligent System at Institute of Automation，
+  text=""" Mingxin Guo is a currently a first-year Ph.D. student in Pattern Recognition and Intelligent System at Institute of Automation，
 		Chinese Academy of Sciences.
    """
 # [[params.introduction.paragraph]]
@@ -57,7 +57,7 @@ copyright = "Copyright notice © 2021"
 
   [[params.publications.paper]]
     name = "Wainting..."
-    authors = "__Hadi Sinaee__, ..."
+#    authors = "__Hadi Sinaee__, ..."
 #    dest  = "Helga Zita Journal"
 #    link = "https://mypaperishere.com"
 #    code_link = "https://thecoderepo.com"
@@ -67,7 +67,7 @@ copyright = "Copyright notice © 2021"
   year="2020"
 
   [[params.publications.paper]]
-		name = "GPUs-RRTMG_LW: high-efficient and scalable computing for a longwave radiative transfer model on multiple GPUs."
+		name = "GPUs-RRTMG_LW: high-efficient and scalable computing for a longwave radiative transfer model on multiple GPUs"
 		authors = "Yuzhu Wang, __Mingxin Guo__, Yuan Zhao, Jinrong Jiang"
 		dest  = "The Journal of Supercomputing"
 		link = "https://link.springer.com/article/10.1007/s11227-020-03451-3"
@@ -101,4 +101,4 @@ copyright = "Copyright notice © 2021"
 		position = "深圳"
 		project_page = "https://myprojecthomepage.com"
 		code_link = "https://coderepo.com"
-		blog_link = "https://ablogpost.com"
+		#blog_link = "https://ablogpost.com"

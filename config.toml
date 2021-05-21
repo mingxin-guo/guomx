@@ -4,7 +4,7 @@ title = "Mx Guo"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout=3000
-copyright = "© Copyright notice"
+copyright = "Copyright notice © 2021"
 
 [params]
   subtitle= "PhD Student"
@@ -13,12 +13,12 @@ copyright = "© Copyright notice"
   blog="http://guomx.netlify.app/"
 
 [[params.affilation]]
-  name = "University of Chinese Academy of Sciences"
+  name = "University of Chinese Academy of Sciences (2021- )"
   position = "PhD Student"
   # contact = "guomx.mail@gmail.com"
 
 [[params.affilation]]
-  name = "China University of Geosciences，Beijing"
+  name = "China University of Geosciences，Beijing (2017-2021)"
   position = "BSc Student"
   contact = "guomx.mail@gmail.com"
 
@@ -26,11 +26,11 @@ copyright = "© Copyright notice"
 [[params.social]]
   name = "GitHub"
   icon = "github"
-  # url = "https://github.com/hadisinaee"
+  url = "https://github.com/mingxin-guo"
 
 [[params.social]]
-  name = "Twitter"
-  icon = "twitter"
+  name = "GitLab"
+  icon = "gitlab"
   # url = "https://twitter.com/hadisinaee"
 
 
@@ -52,56 +52,53 @@ copyright = "© Copyright notice"
 #	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
 #  """
 
-[[params.publications]]
+ [[params.publications]]
   year="Preprint"
 
   [[params.publications.paper]]
-    name = "Enim nunc faucibus a pellentesque sit amet porttitor"
-    authors = "Ana Alvardo, William Worthley, __Hadi Sinaee__"
-    dest  = "Helga Zita Journal"
-    link = "https://mypaperishere.com"
-    code_link = "https://thecoderepo.com"
-    blog_link = "https://myblogaboutit.com"
+    name = "Wainting..."
+    authors = "__Hadi Sinaee__, ..."
+#    dest  = "Helga Zita Journal"
+#    link = "https://mypaperishere.com"
+#    code_link = "https://thecoderepo.com"
+#    blog_link = "https://myblogaboutit.com"
 
 [[params.publications]]
-  year="2019"
+  year="2020"
 
   [[params.publications.paper]]
-		name = "Feugiat sed lectus vestibulum mattis ullamcorper velit sed"
-		authors = "Caroll Comes, __Hadi Sinaee__"
-		dest  = "Udo Madhu Journal"
-		link = "https://mypaperishere.com"
-		code_link = "https://thecoderepo.com"
-		blog_link = ""
+		name = "GPUs-RRTMG_LW: high-efficient and scalable computing for a longwave radiative transfer model on multiple GPUs."
+		authors = "Yuzhu Wang, __Mingxin Guo__, Yuan Zhao, Jinrong Jiang"
+		dest  = "The Journal of Supercomputing"
+		link = "https://link.springer.com/article/10.1007/s11227-020-03451-3"
+		# code_link = ""
+		# blog_link = ""
 
 
 [[params.projects]]
-	[[params.projects.project]]
-		name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
-		description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
-		blog_link = "https://ablogpost.com"
-
  [[params.projects.project]]
-		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
-		description  = ""
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
-		blog_link = ""
+		name = "Waiting..."
+		# description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
+		# project_page = "https://myprojecthomepage.com"
+		# code_link = "https://coderepo.com"
+		# blog_link = "https://ablogpost.com"
 
- [[params.projects.project]]
-		name = "Integer eget aliquet nibh praesent tristique magna"
-		description  = ""
-		project_page = "https://myprojecthomepage.com"
-		code_link = ""
-		blog_link = "https://ablogpost.com"
+#  [[params.projects.project]]
+# 		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
+# 		description  = ""
+#		project_page = "https://myprojecthomepage.com"
+#		code_link = "https://coderepo.com"
+#		blog_link = ""
+
+
 
 
 [[params.experience]]
 	[[params.experience.experience]]
-		name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
-		description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
+		name = "一生一芯"
+		description  = "Soc设计"
+		company = "鹏城实验室"
+		position = "深圳"
 		project_page = "https://myprojecthomepage.com"
 		code_link = "https://coderepo.com"
 		blog_link = "https://ablogpost.com"

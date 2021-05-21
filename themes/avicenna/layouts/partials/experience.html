@@ -21,12 +21,6 @@
 			</span>
 			{{ end }}
 			
-			{{ with $experience.company}}
-			<span class="experience_description">
-				{{ . | markdownify}}
-			</span>
-			{{ end }}
-			
 			{{ with $experience.description }}
 			<span class="experience_description">
 				{{ . | markdownify}}

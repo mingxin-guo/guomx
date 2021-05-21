@@ -14,7 +14,7 @@ timeout=3000
 [[params.affilation]]
   name = "University of Chinese Academy of Sciences"
   position = "PhD Student"
-  contact = "guomx.mail@gmail.com"
+  # contact = "guomx.mail@gmail.com"
 
 [[params.affilation]]
   name = "China University of Geosciences，Beijing"
@@ -62,14 +62,6 @@ timeout=3000
     code_link = "https://thecoderepo.com"
     blog_link = "https://myblogaboutit.com"
 
-  [[params.publications.paper]]
-    name = "In cursus turpis massa tincidunt dui ut ornare lectus sit"
-    authors = "__Hadi Sinaee__,Les Larkins, Edra Ethier"
-    dest  = "Meklit Katlego Conference"
-    link = "https://mypaperishere.com"
-    code_link = "https://thecoderepo.com"
-    blog_link = "https://myblogaboutit.com"
-
 [[params.publications]]
   year="2019"
 
@@ -81,29 +73,6 @@ timeout=3000
 		code_link = "https://thecoderepo.com"
 		blog_link = ""
 
-  [[params.publications.paper]]
-		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
-		authors = "Les Larkins, Ana Alvardo, __Hadi Sinaee__ "
-		dest  = "Zorka Vita Conference"
-		link = "https://mypaperishere.com"
-		code_link = ""
-		blog_link = "https://myblogaboutit.com"
-
-  [[params.publications.paper]]
-		name = "Aliquet eget sit amet tellus cras adipiscing enim eu turpis"
-		authors = "Les Larkins, __Hadi Sinaee__, Ana Alvardo"
-		dest  = "Lena Randa Conference"
-		link = "https://mypaperishere.com"
-		code_link = ""
-		blog_link = ""
-
-  [[params.publications.paper]]
-		name = "Orci eu lobortis elementum nibh tellus molestie nunc non blandit"
-		authors = "__Hadi Sinaee__, Caroll Comes"
-		dest  = "Thandeka Radhika Conference"
-		link = ""
-		code_link = ""
-		blog_link = ""
 
 [[params.projects]]
 	[[params.projects.project]]

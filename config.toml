@@ -71,7 +71,7 @@ copyright = "Copyright notice © 2021"
 		authors = "Yuzhu Wang, __Mingxin Guo__, Yuan Zhao, Jinrong Jiang"
 		dest  = "The Journal of Supercomputing"
 		link = "https://link.springer.com/article/10.1007/s11227-020-03451-3"
-		# code_link = ""
+		code_link = ""
 		# blog_link = ""
 
 
